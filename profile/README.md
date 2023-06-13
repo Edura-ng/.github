@@ -1,4 +1,4 @@
-<img width="895" alt="edura-logo" src="https://user-images.githubusercontent.com/33707645/229292538-6fe1a00f-e1c1-493c-a89c-6a1c6aa9b53e.png">
+<img width="1296" alt="Edura-full-logo-no-bg" src="https://github.com/Edura-ng/.github/assets/33707645/76e56031-58e3-4b48-ab6e-06a91b4c16e2">
 
 ## Hi there 👋
 
